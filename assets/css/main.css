@@ -41,3 +41,10 @@
 .show {
   display:block;
 }
+
+#text1{
+	display : none;
+}
+#text3{
+	display : none;
+}
