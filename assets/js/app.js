@@ -19,8 +19,8 @@ window.onclick = function(event) {
 		}
 	}
 }
-  //var usuario=prompt("INGRESA TU NOMBRE: ");
-  //document.getElementById("usuario").innerHTML="Hola coder "+usuario;
+  var usuario=prompt("INGRESA TU NOMBRE: ");
+  document.getElementById("usuario").innerHTML="Hola coder "+usuario;
   var mostarOcultar = function(divtexte) {
   	var divtext = document.getElementById(divtexte);
 
